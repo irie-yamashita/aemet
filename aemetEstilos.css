@@ -1,0 +1,29 @@
+h1{
+    font-size: 1.5rem;
+}
+table{
+    border: 1px solid black;
+    background-color:white;
+
+    width: 20%;
+}
+
+.capsalera{
+    background-color:lightblue;
+}
+
+th{
+    text-align:left;
+}
+
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+
+/*
+<head>
+    <link rel="stylesheet" href="aemetEstilos.css">
+</head>
+*/
